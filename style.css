@@ -11,3 +11,9 @@ h1 {
     font-weight: 900;
     color: darkolivegreen;
 }
+
+ol li {
+    font-weight: 100;
+    font-style: italic;
+    font-family: fantasy;
+}
